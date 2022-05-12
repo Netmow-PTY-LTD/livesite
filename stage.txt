@@ -1,0 +1,24 @@
+config.app
+----------------------------------
+
+brouse bothtogether --- app + test1
+
+
+
+
+liveshedule.js (  )
+live-script.js
+
+
+
+
+app.miyn.app  		--- test1.miyn.app
+live.miyn.app 		--- test3.miyn.app
+api.miyn.app  		--- test2.miyn.app
+client.miyn.app  	--- test4.miyn.app
+staff.miyn.app  	--- test5.miyn.app
+
+//affiliate.miyn.app  		--- test6.miyn.app
+
+
+
