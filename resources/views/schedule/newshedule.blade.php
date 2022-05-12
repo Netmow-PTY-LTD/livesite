@@ -1772,8 +1772,8 @@ function parseDate(date) {
                             var url= "{{config('app.api_url')}}/api/google-disable-time-slot/"+_this.staff_id+"/"+tdate+"/"+_this.business_id+"?currentTimezone="+ctimezone;
                             //console.log(url);
 
-                            xhttp.open("GET", url, true);
-                            xhttp.send();
+                            // xhttp.open("GET", url, true);
+                            // xhttp.send();
 
                         })
                         .then(function() {
