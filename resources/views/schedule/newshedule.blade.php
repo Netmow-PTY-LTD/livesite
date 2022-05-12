@@ -1767,6 +1767,7 @@ function parseDate(date) {
                                 }
                             };
 
+                            console.log('ctimezone');
                             var ctimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
                             var url= "{{config('app.api_url')}}/api/google-disable-time-slot/"+_this.staff_id+"/"+tdate+"/"+_this.business_id+"?currentTimezone="+ctimezone;
                             //console.log(url);
