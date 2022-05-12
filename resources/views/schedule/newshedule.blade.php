@@ -1564,9 +1564,11 @@ function parseDate(date) {
                                    // var infos = JSON.stringify(this.responseText);
                                     //console.log(JSON.parse(infos));
 
-                                    //console.log('sss -');
+                                    console.log('sss -');
+                                    console.log(this.responseText);
 
                                     if(this.responseText !="") {
+                                        console.log('sss2 -');
                                         var res = this.responseText.split(",");
 
                                         var conv = [];
